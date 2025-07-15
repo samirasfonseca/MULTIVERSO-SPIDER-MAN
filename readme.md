@@ -6,7 +6,7 @@ Este projeto é um site do Multiverso Spider-Man, desenvolvido com **HTML5**, **
 
 ## ✨ Demonstração
 
-![Texto alternativo](aranha1.png)
+![Texto alternativo](aranha2.png)
 
 
 ---
